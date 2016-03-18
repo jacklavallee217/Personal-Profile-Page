@@ -139,6 +139,10 @@ header .profile-image:hover {
   border-color: #da6920;
 }
 
+.experience-card:hover {
+  border-color: #da6920;
+}
+
 ul.skills {
   padding: 0;
   text-align: center;
